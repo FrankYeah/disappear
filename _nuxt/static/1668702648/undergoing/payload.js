@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/undergoing", {data:[{}],fetch:{},mutations:[]});
